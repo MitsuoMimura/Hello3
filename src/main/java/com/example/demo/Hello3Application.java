@@ -1,3 +1,4 @@
+// コメント追加　　20260507 aaaaa
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
